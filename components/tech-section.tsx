@@ -4,6 +4,7 @@ import { useLanguage } from "@/lib/i18n";
 import { motion } from "framer-motion";
 import { useTheme } from "next-themes";
 import Image from "next/image";
+import ViteIcon from "../app/assets/icons/Vite.svg"
 
 const technologies = [
   {
@@ -45,7 +46,7 @@ const technologies = [
   {
     name: "Vite",
     description: "Frontend build tool",
-    icon: "https://vitejs.dev/logo-with-shadow.png",
+    icon: ViteIcon,
     gradient: "from-purple-500 to-yellow-400"
   },
   {
