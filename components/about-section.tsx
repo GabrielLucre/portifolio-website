@@ -76,7 +76,7 @@ export const AboutSection = () => {
                 src="/about_photo.png"
                 alt="Profile"
                 fill
-                className="object-cover object-top"
+                className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
               />
             </div>

@@ -21,16 +21,8 @@ const projects = [
     id: "project2",
     image: "/bancoDaFeiraPhoto.png",
     technologies: ["React", "Javascript", "Nodejs", "Express", "Material UI"],
-    demoLink: "",
+    demoLink: "https://uroboros.vercel.app",
     githubLink: "https://github.com/GabrielLucre/banco-feira-da-troca",
-    featured: false
-  },
-  {
-    id: "project3",
-    image: "/portfolio.png",
-    technologies: ["Next.js", "TypeScript", "Framer Motion", "TailwindCSS"],
-    demoLink: "https://gabriellucre.vercel.app/",
-    githubLink: "https://github.com/GabrielLucre/portifolio-website",
     featured: false
   },
   {

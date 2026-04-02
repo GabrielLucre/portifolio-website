@@ -16,6 +16,16 @@ const timelineData = [
     descriptionKey: "timeline.education.description",
     icon: <GraduationCapIcon className="w-5 h-5" />,
   },
+  {
+    id: 2,
+    type: "education",
+    titleKey: "timeline.superior.education.title",
+    companyKey: "timeline.superior.education.company",
+    locationKey: "timeline.superior.education.location",
+    periodKey: "timeline.superior.education.period",
+    descriptionKey: "timeline.superior.education.description",
+    icon: <GraduationCapIcon className="w-5 h-5" />,
+  },
 ];
 
 export const TimelineSection = () => {
